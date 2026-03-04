@@ -4,11 +4,11 @@
 
 - 🔭 My best Project [AI based traffic management](https://github.com/apuProgramz/Toll-Booth-Traffic-Management-AI)
 
+- 🌐 Web Dev [A linktree Clone](https://github.com/apuProgramz/connecto)
+
+- ⌯✈︎ Internship Project [Voice of Customer](https://github.com/apuProgramz/Voice-of-Customer)
+
 - 🌱 I’m currently learning **React, Angular**
-
-- Web Dev [A linktree Clone](https://github.com/apuProgramz/connecto)
-
-- Internship Project [Voice of Customer](https://github.com/apuProgramz/Voice-of-Customer)
 
 - 💬 Ask me about **Machine learning pipelines and Automation in DevOps**
 
