@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apuprogramz&show_icons=true&locale=en" alt="" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apuprogramz&" alt="apuprogramz" /></p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=apuprogramz&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
