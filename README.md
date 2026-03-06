@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **apughare6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fEh4V6mItTW-vdT_00GN6IGILTSSQ8SY/view?usp=sharing](https://drive.google.com/file/d/1fEh4V6mItTW-vdT_00GN6IGILTSSQ8SY/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1fEh4V6mItTW-vdT_00GN6IGILTSSQ8SY/view?usp=sharing)
 
 - ⚡ Fun fact **I can out run you**
 
