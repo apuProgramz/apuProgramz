@@ -3,10 +3,9 @@
 
 
 - 🔭 My best Project [AI based traffic management](https://github.com/apuProgramz/Toll-Booth-Traffic-Management-AI)
+- ⌯✈︎ Internship Project [Voice of Customer](https://github.com/apuProgramz/Voice-of-Customer)
 
 - 🌐 Web Dev [A linktree Clone](https://github.com/apuProgramz/connecto)
-
-- ⌯✈︎ Internship Project [Voice of Customer](https://github.com/apuProgramz/Voice-of-Customer)
 
 - 🌱 I’m currently learning **React, Angular**
 
