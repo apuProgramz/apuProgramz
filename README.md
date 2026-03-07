@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Apurva Ghare</h1>
+<h1 align="Left">Hey, I'm Apurva </h1>
 <h3 align="Left">A final-year Computer Science and Engineering student and aspiring software engineer passionate about building scalable, user-centric web applications. I specialize in modern full-stack development using technologies like Next.js, TypeScript, Tailwind CSS, Prisma, and PostgreSQL. Currently, I am focused on solving complex frontend and backend challenges—such as implementing seamless drag-and-drop interfaces with optimistic UI updates—through projects like LinkHub, a complete personalized link management platform featuring custom real-time analytics. I am dedicated to writing clean, type-safe code and am actively looking for opportunities to bring my technical skills and problem-solving mindset to a dynamic engineering team as I transition into the tech industry.</h3>
 
 
