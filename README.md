@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1fEh4V6mItTW-vdT_00GN6IGILTSSQ8SY/view?usp=sharing)
 
-- ⚡ Fun fact **I can out run you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
